@@ -1,0 +1,7 @@
+C:\Users\potte\source\repos\ForFIles\ForFIles\bin\Debug\ForFIles.exe.config
+C:\Users\potte\source\repos\ForFIles\ForFIles\bin\Debug\ForFIles.exe
+C:\Users\potte\source\repos\ForFIles\ForFIles\bin\Debug\ForFIles.pdb
+C:\Users\potte\source\repos\ForFIles\ForFIles\obj\Debug\ForFIles.csproj.AssemblyReference.cache
+C:\Users\potte\source\repos\ForFIles\ForFIles\obj\Debug\ForFIles.csproj.CoreCompileInputs.cache
+C:\Users\potte\source\repos\ForFIles\ForFIles\obj\Debug\ForFIles.exe
+C:\Users\potte\source\repos\ForFIles\ForFIles\obj\Debug\ForFIles.pdb
