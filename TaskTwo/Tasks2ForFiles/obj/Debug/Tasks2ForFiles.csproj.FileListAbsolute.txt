@@ -1,0 +1,7 @@
+C:\Users\potte\source\repos\Tasks2ForFiles\Tasks2ForFiles\bin\Debug\Tasks2ForFiles.exe.config
+C:\Users\potte\source\repos\Tasks2ForFiles\Tasks2ForFiles\bin\Debug\Tasks2ForFiles.exe
+C:\Users\potte\source\repos\Tasks2ForFiles\Tasks2ForFiles\bin\Debug\Tasks2ForFiles.pdb
+C:\Users\potte\source\repos\Tasks2ForFiles\Tasks2ForFiles\obj\Debug\Tasks2ForFiles.csproj.AssemblyReference.cache
+C:\Users\potte\source\repos\Tasks2ForFiles\Tasks2ForFiles\obj\Debug\Tasks2ForFiles.csproj.CoreCompileInputs.cache
+C:\Users\potte\source\repos\Tasks2ForFiles\Tasks2ForFiles\obj\Debug\Tasks2ForFiles.exe
+C:\Users\potte\source\repos\Tasks2ForFiles\Tasks2ForFiles\obj\Debug\Tasks2ForFiles.pdb
